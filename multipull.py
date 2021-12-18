@@ -12,6 +12,6 @@ for item in itemsInDir:
             githubFolders.append(os.path.join(path, item))
 
 for folder in githubFolders:
-    os.chdir(folder)
     print(f"{folder}")
+    os.chdir(folder)
     os.system("git pull")
