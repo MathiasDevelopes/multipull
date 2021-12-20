@@ -5,4 +5,4 @@ To run, you simply put multipull.py in whatever directory your github repos are,
 
 ## Requirements
 * Git
-* Python 3.10.0
+* Python 3
