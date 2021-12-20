@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 
 # Gets the current working directory
